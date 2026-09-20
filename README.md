@@ -61,7 +61,6 @@ statistical inference from the model.
 
 - `analysis/` — R/RMarkdown analysis
 - `reports/` — Final report and research poster
-- `data/` — Data source and preparation information
 
 ## Data
 
